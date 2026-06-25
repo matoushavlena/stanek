@@ -1,0 +1,5 @@
+# Reference checkouts (kept locally for study, not part of the starter)
+repos/
+
+# macOS
+.DS_Store
